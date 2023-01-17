@@ -1,0 +1,1 @@
+- Caso tenha inserido outra senha ao criar o BD substitua a senha 'sodnamoc' no arquivo conectaDB.
