@@ -25,7 +25,7 @@ require_once './conectaDB.php';
             }
 
             button {
-                background-color: rgb(143, 82, 54) ;
+                background-color: rgb(120, 60, 60) ;
                 font-size: 18px;
             }
 
