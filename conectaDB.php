@@ -1,7 +1,7 @@
 <?php
 
 try {
-    $pdo = new PDO('pgsql:host=localhost;dbname=Web2; port=5432', 'postgres', 'sodnamoc', [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]);
+    $pdo = new PDO('pgsql:host=containers-us-west-72.railway.app;dbname=railway; port=6239', 'postgres', 'g1d9I4yfWFjgxw4WY805', [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]);
     
 } catch (PDOException $e) {
     echo '<br>Falha na conexão';
